@@ -1,0 +1,53 @@
+{
+  "526728587187294": {
+    "mediaId": "526728587187294",
+    "fileName": "audio_526728587187294_2025-06-07T19-49-28-847Z.ogg",
+    "filePath": "/app/media/processed/audio_526728587187294_2025-06-07T19-49-28-847Z.ogg",
+    "fileSize": "29.47 KB",
+    "fileSizeBytes": 30177,
+    "contentType": "audio/ogg",
+    "fileHash": "a31935b19242ad4c8116c3ba01f8ca389c8bb48369bd93dce4cc859a64da4eaa",
+    "downloadTime": "426ms",
+    "downloadedAt": "2025-06-07T19:49:29.270Z",
+    "source": "whatsapp",
+    "requestId": "MBMNE9VW",
+    "user": "soft00null",
+    "processed": true,
+    "type": "audio",
+    "savedAt": "2025-06-07T19:49:29.339Z"
+  },
+  "1872957836823732": {
+    "mediaId": "1872957836823732",
+    "fileName": "audio_1872957836823732_2025-06-07T19-50-37-083Z.ogg",
+    "filePath": "/app/media/processed/audio_1872957836823732_2025-06-07T19-50-37-083Z.ogg",
+    "fileSize": "19.84 KB",
+    "fileSizeBytes": 20321,
+    "contentType": "audio/ogg",
+    "fileHash": "b224d7e79f8b48f9dbcb2a61c867782eb99ed6d7e89181a0c966dd7331d7da71",
+    "downloadTime": "412ms",
+    "downloadedAt": "2025-06-07T19:50:37.488Z",
+    "source": "whatsapp",
+    "requestId": "MBMNFQJ8",
+    "user": "soft00null",
+    "processed": true,
+    "type": "audio",
+    "savedAt": "2025-06-07T19:50:37.502Z"
+  },
+  "1069640198562493": {
+    "mediaId": "1069640198562493",
+    "fileName": "audio_1069640198562493_2025-06-07T20-00-26-817Z.ogg",
+    "filePath": "/app/media/processed/audio_1069640198562493_2025-06-07T20-00-26-817Z.ogg",
+    "fileSize": "13.45 KB",
+    "fileSizeBytes": 13775,
+    "contentType": "audio/ogg",
+    "fileHash": "c2b643e08f1527c32c51176685db230297ae5ae573e97c489ffab55a8b976d53",
+    "downloadTime": "339ms",
+    "downloadedAt": "2025-06-07T20:00:27.154Z",
+    "source": "whatsapp",
+    "requestId": "MBMNSDKV",
+    "user": "soft00null",
+    "processed": true,
+    "type": "audio",
+    "savedAt": "2025-06-07T20:00:27.246Z"
+  }
+}
